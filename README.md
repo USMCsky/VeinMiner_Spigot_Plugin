@@ -1,4 +1,9 @@
 # VeinMiner — Spigot Plugin for Minecraft 1.21.1
+![Spigot](https://img.shields.io/badge/Spigot-Plugin-orange?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-3C8527?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-100%25-blue?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
 
 A lightweight Spigot plugin for Minecraft that removes the tedium of mining ore veins one block at a time. Break any ore block and the entire connected vein is automatically mined — drops included.
 
